@@ -1,0 +1,35 @@
+// Import page-specific CSS files here.
+@import "home";
+
+.cards {
+  display: inline-block;
+  width: 300px;
+  height: 180px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  background-color: #F8F9FA;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 19px;
+}
+
+p {
+  font-size: 12px;
+}
+
+.container {
+  display: block;
+  margin: 50px;
+  width: 1200px;
+  background-color: white;
+  padding: 50px;
+}
+
+.white {
+  background-color: white;
+  padding: 7px;
+}
